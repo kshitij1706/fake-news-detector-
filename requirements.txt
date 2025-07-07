@@ -1,0 +1,27 @@
+# Core
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# NLP + Retrieval
+openai
+langchain
+faiss-cpu
+wikipedia
+tldextract
+
+# Image + Vision
+torch
+transformers
+Pillow
+sentence-transformers
+opencv-python
+timm
+
+# Frontend (optional)
+streamlit
+
+# Others
+requests
+scikit-learn
